@@ -1,0 +1,209 @@
+graph tm {
+	node [shape=rectangle]
+	T00 -- T01
+	T00 -- T02
+	T00 -- T03
+	T00 -- T04
+	T00 -- T05
+	T00 -- T06
+	T00 -- T07
+	T00 -- T08
+	T00 -- T09
+	T00 -- T10
+	T00 -- T11
+	T00 -- T12
+	T00 -- T13
+	T00 -- T14
+	T00 -- T15
+	T00 -- T16
+	T00 -- T17
+	T00 -- T18
+	T00 -- T19
+	T01 -- T02
+	T01 -- T03
+	T01 -- T04
+	T01 -- T05
+	T01 -- T06
+	T01 -- T07
+	T01 -- T08
+	T01 -- T09
+	T01 -- T10
+	T01 -- T11
+	T01 -- T12
+	T01 -- T13
+	T01 -- T14
+	T01 -- T15
+	T01 -- T16
+	T01 -- T17
+	T01 -- T18
+	T01 -- T19
+	T02 -- T04
+	T02 -- T05
+	T02 -- T06
+	T02 -- T07
+	T02 -- T08
+	T02 -- T09
+	T02 -- T10
+	T02 -- T11
+	T02 -- T12
+	T02 -- T13
+	T02 -- T14
+	T02 -- T15
+	T02 -- T16
+	T02 -- T17
+	T02 -- T18
+	T02 -- T19
+	T03 -- T04
+	T03 -- T05
+	T03 -- T06
+	T03 -- T07
+	T03 -- T08
+	T03 -- T09
+	T03 -- T10
+	T03 -- T11
+	T03 -- T12
+	T03 -- T13
+	T03 -- T14
+	T03 -- T15
+	T03 -- T16
+	T03 -- T17
+	T03 -- T18
+	T03 -- T19
+	T04 -- T05
+	T04 -- T06
+	T04 -- T07
+	T04 -- T08
+	T04 -- T09
+	T04 -- T10
+	T04 -- T11
+	T04 -- T12
+	T04 -- T13
+	T04 -- T14
+	T04 -- T15
+	T04 -- T16
+	T04 -- T17
+	T04 -- T18
+	T04 -- T19
+	T05 -- T06
+	T05 -- T07
+	T05 -- T08
+	T05 -- T09
+	T05 -- T10
+	T05 -- T11
+	T05 -- T13
+	T05 -- T14
+	T05 -- T15
+	T05 -- T16
+	T05 -- T17
+	T05 -- T18
+	T05 -- T19
+	T06 -- T07
+	T06 -- T08
+	T06 -- T09
+	T06 -- T10
+	T06 -- T11
+	T06 -- T13
+	T06 -- T14
+	T06 -- T15
+	T06 -- T16
+	T06 -- T18
+	T06 -- T19
+	T07 -- T08
+	T07 -- T09
+	T07 -- T10
+	T07 -- T11
+	T07 -- T12
+	T07 -- T13
+	T07 -- T14
+	T07 -- T15
+	T07 -- T16
+	T07 -- T17
+	T07 -- T18
+	T07 -- T19
+	T08 -- T09
+	T08 -- T10
+	T08 -- T11
+	T08 -- T12
+	T08 -- T13
+	T08 -- T14
+	T08 -- T15
+	T08 -- T16
+	T08 -- T17
+	T08 -- T18
+	T08 -- T19
+	T09 -- T10
+	T09 -- T11
+	T09 -- T12
+	T09 -- T13
+	T09 -- T14
+	T09 -- T15
+	T09 -- T16
+	T09 -- T17
+	T09 -- T18
+	T09 -- T19
+	T10 -- T11
+	T10 -- T12
+	T10 -- T13
+	T10 -- T14
+	T10 -- T15
+	T10 -- T16
+	T10 -- T17
+	T10 -- T18
+	T10 -- T19
+	T11 -- T12
+	T11 -- T13
+	T11 -- T14
+	T11 -- T15
+	T11 -- T16
+	T11 -- T17
+	T11 -- T18
+	T11 -- T19
+	T12 -- T13
+	T12 -- T14
+	T12 -- T15
+	T12 -- T16
+	T12 -- T17
+	T12 -- T18
+	T12 -- T19
+	T13 -- T14
+	T13 -- T15
+	T13 -- T16
+	T13 -- T17
+	T13 -- T18
+	T13 -- T19
+	T14 -- T15
+	T14 -- T16
+	T14 -- T17
+	T14 -- T18
+	T14 -- T19
+	T15 -- T16
+	T15 -- T17
+	T15 -- T18
+	T15 -- T19
+	T16 -- T17
+	T16 -- T18
+	T16 -- T19
+	T17 -- T18
+	T17 -- T19
+	T18 -- T19
+	T00 [label="T00\nsocrates knowledge pleasures\nparts inference kind pains"]
+	T01 [label="T01\nwise means man\ndesires soul best sort"]
+	T02 [label="T02\nway water things\nair body nature animals"]
+	T03 [label="T03\nevil science man\ngood temperance ignorance law"]
+	T04 [label="T04\npain truth point\nfriend place sort pleasure pain"]
+	T05 [label="T05\ntheaetetus idea class\nform opinion definition thing"]
+	T06 [label="T06\nmotion nature world\nthings soul word mind"]
+	T07 [label="T07\nnature state rulers\nlaw class guardians art"]
+	T08 [label="T08\nbody man state\ncase soul matter said"]
+	T09 [label="T09\nvirtue courage man\nrest nature thing sun"]
+	T10 [label="T10\nmen education music\nimpossible mind man way"]
+	T11 [label="T11\ngood arts medicine\nsort thing health science"]
+	T12 [label="T12\nlaw life man\nmen argument way death"]
+	T13 [label="T13\nman answer harmony\nwords nature difference argument"]
+	T14 [label="T14\nstranger things air\nlegislator man gold land"]
+	T15 [label="T15\ngovernment end clearly\nthings use body form"]
+	T16 [label="T16\nmen course man\nsoul gods things injustice"]
+	T17 [label="T17\ncity number man\nwomen time citizens years"]
+	T18 [label="T18\nbody care manner\nman soul body opposite blood"]
+	T19 [label="T19\nson thing father\nman people way men"]
+}
